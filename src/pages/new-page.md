@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 sections: []
 seo:
-  title: ''
+  title: 'hey'
   description: ''
   robots: []
   extra: []
