@@ -8,7 +8,11 @@ sections:
       Taa 
       Digital, Identity, and Print Design.
     content: >-
-      We are a brand and design practice. We work closely with you, your team to
+      We are a brand and design practicl
+      l
+      l
+      l
+      e. We work closely with you, your team to
       deliver inspiring <>dfsgfdgg
       ujghjhgjghjgh
       'kjhhj
