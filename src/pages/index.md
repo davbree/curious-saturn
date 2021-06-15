@@ -25,7 +25,11 @@ sections:
 
       ;lk;kl
 
-      ;lk;kl;;lk;kl
+      ;lk;kl;;lk;klhgffghfg
+
+      kljhjhkhj
+
+      ljklljk
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
