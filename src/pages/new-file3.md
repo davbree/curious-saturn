@@ -1,5 +1,5 @@
 ---
-title: my title6
+title: my title6aaaa
 hide_title: true
 sections: []
 seo:
