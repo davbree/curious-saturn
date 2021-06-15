@@ -22,6 +22,8 @@ sections:
       kjljk
 
       ljkljkj
+
+      ;lk;kl
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
