@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Taa 
+      Taa sszz
       Digital, Identity, and Print Design.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
