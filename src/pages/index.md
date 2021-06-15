@@ -9,24 +9,6 @@ sections:
       Digital, Identity, and Print Design.
     content: >-
       .....We are a brand and design practicl
-      l
-      l
-      l
-      e. We work closely with you, your team to
-      deliver inspiring <>dfsgfdgg
-      ujghjhgjghjgh
-      'kjhhj
-      
-      l;kjljkljkljk
-      lkjlwork, which enables your organization to grow. [Let's
-      talk
-      ;lkklklik
-
-
-kkkk
-      l;klk
-      llnm,kmjkj
-      
       nklk;lk](/contact/).l;l;lpppppp
 
       l;l;l;
