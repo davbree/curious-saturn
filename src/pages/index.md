@@ -8,7 +8,7 @@ sections:
       Taa 
       Digital, Identity, and Print Design.
     content: >-
-      We are a brand and design practicl
+      .....We are a brand and design practicl
       l
       l
       l
